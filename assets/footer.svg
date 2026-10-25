@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="vector-footer-1200" width="1200" height="118" viewBox="0 0 1200 118" role="img" aria-labelledby="vector-footer-1200-title vector-footer-1200-desc">
+<title id="vector-footer-1200-title">Footer · Batman21</title>
+<desc id="vector-footer-1200-desc">Build for people. Leave something useful behind. nk-batman21.</desc>
+<style>
+    @keyframes vector-footer-1200-float {0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+    @keyframes vector-footer-1200-orbit {to{transform:rotate(360deg)}}
+    @keyframes vector-footer-1200-enter {from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes vector-footer-1200-sweep {0%{transform:translateX(-1200px)}100%{transform:translateX(1200px)}}
+    @keyframes vector-footer-1200-trace {to{stroke-dashoffset:-110}}
+    @keyframes vector-footer-1200-pulse {0%,100%{opacity:.32}50%{opacity:1}}
+    @keyframes vector-footer-1200-reveal {0%,4%{clip-path:inset(0 100% 0 0)}30%,90%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}
+    @keyframes vector-footer-1200-blink {0%,48%{opacity:1}49%,100%{opacity:0}}
+    #vector-footer-1200 .drift{animation:vector-footer-1200-float 10s ease-in-out infinite}
+    #vector-footer-1200 .orbit{transform-box:fill-box;transform-origin:center;animation:vector-footer-1200-orbit 40s linear infinite}
+    #vector-footer-1200 .enter{animation:vector-footer-1200-enter 1.4s ease-out both}
+    #vector-footer-1200 .scan{animation:vector-footer-1200-sweep 15s linear infinite}
+    #vector-footer-1200 .trace{stroke-dasharray:18 92;animation:vector-footer-1200-trace 4s linear infinite}
+    #vector-footer-1200 .pulse{animation:vector-footer-1200-pulse 4s ease-in-out infinite}
+    #vector-footer-1200 .type{animation:vector-footer-1200-reveal 12s steps(36,end) infinite}
+    #vector-footer-1200 .cursor{animation:vector-footer-1200-blink 1.3s step-end infinite}
+    @media(prefers-reduced-motion:reduce){#vector-footer-1200 *{animation:none!important}#vector-footer-1200 .scan,#vector-footer-1200 .cursor{display:none}}
+    </style>
+<rect width="1200" height="118" fill="#101112"/>
+<path d="M48 1H1152" stroke="#383c3f" /><text x="48" y="53" font-size="22" fill="#ff9a66" font-family="Consolas,Menlo,monospace" font-weight="400" text-anchor="start" letter-spacing="1" >BUILD FOR PEOPLE.</text><text x="48" y="96" font-size="17" fill="#b3b6b7" font-family="Consolas,Menlo,monospace" font-weight="400" text-anchor="start" letter-spacing="0" >Leave something useful behind.</text><text x="1152" y="72" font-size="18" fill="#f6f4f0" font-family="Consolas,Menlo,monospace" font-weight="400" text-anchor="end" letter-spacing="0" >nk-batman21 / keep it open</text><path class="trace" d="M1020 1H1152" stroke="#ff9a66" stroke-width="2"/>
+</svg>
