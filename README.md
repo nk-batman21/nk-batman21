@@ -13,46 +13,46 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/contributions-mobile-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-static.svg">
   <source media="(max-width: 600px)" srcset="./assets/contributions-mobile.svg">
-  <img src="./assets/contributions.svg" alt="48 merged public upstream PRs across 23 repositories; 35 open PRs. Snapshot: 2026-10-26." width="1200">
+  <img src="./assets/contributions.svg" alt="69 merged public upstream PRs across 38 repositories; 41 open PRs. Snapshot: 2026-10-29." width="1200">
 </picture>
 
-<sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-10-26</strong>. Repo count includes merged work.</sub>
+<sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-10-29</strong>. Repo count includes merged work.</sub>
 
 ### A few things I've helped improve
 
-<a href="https://github.com/psf/black/pull/5587">
+<a href="https://github.com/gdamore/tcell/pull/1216">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-tcell-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-tcell-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-tcell-mobile.svg">
+  <img src="./assets/pr-tcell.svg" alt="tcell #1216. Merged. Prevented stray terminal output when st does not support desktop notifications." width="1200">
+</picture>
+</a>
+
+<a href="https://github.com/recharts/recharts/pull/8113">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-recharts-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-recharts-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-recharts-mobile.svg">
+  <img src="./assets/pr-recharts.svg" alt="Recharts #8113. Merged. Made RadialBar render custom background elements and functions instead of ignoring them." width="1200">
+</picture>
+</a>
+
+<a href="https://github.com/i18next/i18next/pull/2464">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-i18next-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-i18next-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-i18next-mobile.svg">
+  <img src="./assets/pr-i18next.svg" alt="i18next #2464. Merged. Preserved nested 0, false and empty-string interpolation values with custom key separators." width="1200">
+</picture>
+</a>
+
+<a href="https://github.com/psf/black/pull/5635">
 <picture>
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-black-mobile-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-black-static.svg">
   <source media="(max-width: 600px)" srcset="./assets/pr-black-mobile.svg">
-  <img src="./assets/pr-black.svg" alt="Black #5587. Merged. Fixed unstable formatting when a comment precedes an implicitly concatenated final argument." width="1200">
-</picture>
-</a>
-
-<a href="https://github.com/mrdoob/three.js/pull/35192">
-<picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-three.js-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-three.js-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-three.js-mobile.svg">
-  <img src="./assets/pr-three.js.svg" alt="three.js #35192. Merged. Preserved fractional positions and normals when exporting quantized geometry to PLY." width="1200">
-</picture>
-</a>
-
-<a href="https://github.com/Leaflet/Leaflet/pull/10475">
-<picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-leaflet-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-leaflet-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-leaflet-mobile.svg">
-  <img src="./assets/pr-leaflet.svg" alt="Leaflet #10475. Merged. Made video overlays respect keepAspectRatio: false in Firefox and Safari." width="1200">
-</picture>
-</a>
-
-<a href="https://github.com/valyala/fasthttp/pull/2499">
-<picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-fasthttp-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-fasthttp-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-fasthttp-mobile.svg">
-  <img src="./assets/pr-fasthttp.svg" alt="fasthttp #2499. Merged. Sent decoded proxy credentials so special characters no longer break proxy authentication." width="1200">
+  <img src="./assets/pr-black.svg" alt="Black #5635. Merged. Fixed --line-ranges crashes on multi-clause statements with inline bodies and preserved unselected lines." width="1200">
 </picture>
 </a>
 
