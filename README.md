@@ -18,6 +18,20 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
 
 <sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-10-29</strong>. Repo count includes merged work.</sub>
 
+### Where I contribute most
+
+<a href="https://github.com/i18next/i18next/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-1-mobile.svg"><img src="./assets/top-repo-1.svg" alt="Rank 1: i18next/i18next, 6 merged PRs. View merged contributions." width="1200"></picture></a>
+
+<a href="https://github.com/ruvnet/ruflo/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-2-mobile.svg"><img src="./assets/top-repo-2.svg" alt="Rank 1: ruvnet/ruflo, 6 merged PRs. View merged contributions." width="1200"></picture></a>
+
+<a href="https://github.com/i18next/react-i18next/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-3-mobile.svg"><img src="./assets/top-repo-3.svg" alt="Rank 3: i18next/react-i18next, 4 merged PRs. View merged contributions." width="1200"></picture></a>
+
+<a href="https://github.com/Leaflet/Leaflet/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-4-mobile.svg"><img src="./assets/top-repo-4.svg" alt="Rank 3: Leaflet/Leaflet, 4 merged PRs. View merged contributions." width="1200"></picture></a>
+
+<a href="https://github.com/urwid/urwid/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-5-mobile.svg"><img src="./assets/top-repo-5.svg" alt="Rank 3: urwid/urwid, 4 merged PRs. View merged contributions." width="1200"></picture></a>
+
+<sub>Top 5 by merged public upstream PRs as of 2026-10-29. Equal counts share a rank; tied repos are listed alphabetically.</sub>
+
 ### A few things I've helped improve
 
 <a href="https://github.com/gdamore/tcell/pull/1216">
