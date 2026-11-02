@@ -13,10 +13,10 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/contributions-mobile-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-static.svg">
   <source media="(max-width: 600px)" srcset="./assets/contributions-mobile.svg">
-  <img src="./assets/contributions.svg" alt="85 merged public upstream PRs across 48 repositories; 45 open PRs. Snapshot: 2026-10-31." width="1200">
+  <img src="./assets/contributions.svg" alt="95 merged public upstream PRs across 50 repositories; 68 open PRs. Snapshot: 2026-11-02." width="1200">
 </picture>
 
-<sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-10-31</strong>. Repo count includes merged work.</sub>
+<sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-11-02</strong>. Repo count includes merged work.</sub>
 
 ### Where I contribute most
 
@@ -24,49 +24,49 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
 
 <a href="https://github.com/i18next/i18next/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-2-mobile.svg"><img src="./assets/top-repo-2.svg" alt="Rank 2: i18next/i18next, 6 merged PRs. View merged contributions." width="1200"></picture></a>
 
-<a href="https://github.com/urwid/urwid/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-3-mobile.svg"><img src="./assets/top-repo-3.svg" alt="Rank 3: urwid/urwid, 5 merged PRs. View merged contributions." width="1200"></picture></a>
+<a href="https://github.com/urwid/urwid/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-3-mobile.svg"><img src="./assets/top-repo-3.svg" alt="Rank 2: urwid/urwid, 6 merged PRs. View merged contributions." width="1200"></picture></a>
 
-<a href="https://github.com/i18next/react-i18next/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-4-mobile.svg"><img src="./assets/top-repo-4.svg" alt="Rank 4: i18next/react-i18next, 4 merged PRs. View merged contributions." width="1200"></picture></a>
+<a href="https://github.com/Leaflet/Leaflet/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-4-mobile.svg"><img src="./assets/top-repo-4.svg" alt="Rank 4: Leaflet/Leaflet, 5 merged PRs. View merged contributions." width="1200"></picture></a>
 
-<a href="https://github.com/Leaflet/Leaflet/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-5-mobile.svg"><img src="./assets/top-repo-5.svg" alt="Rank 4: Leaflet/Leaflet, 4 merged PRs. View merged contributions." width="1200"></picture></a>
+<a href="https://github.com/dgilland/pydash/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-5-mobile.svg"><img src="./assets/top-repo-5.svg" alt="Rank 5: dgilland/pydash, 4 merged PRs. View merged contributions." width="1200"></picture></a>
 
-<sub>Top 5 by merged public upstream PRs as of 2026-10-31. Equal counts share a rank; tied repos are listed alphabetically.</sub>
+<sub>Top 5 by merged public upstream PRs as of 2026-11-02. Equal counts share a rank; tied repos are listed alphabetically.</sub>
 
 ### A few things I've helped improve
 
-<a href="https://github.com/gdamore/tcell/pull/1216">
+<a href="https://github.com/lingui/js-lingui/pull/2760">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-tcell-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-tcell-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-tcell-mobile.svg">
-  <img src="./assets/pr-tcell.svg" alt="tcell #1216. Merged. Prevented stray terminal output when st does not support desktop notifications." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-lingui-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-lingui-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-lingui-mobile.svg">
+  <img src="./assets/pr-lingui.svg" alt="Lingui #2760. Merged. Fixed extraction crashes when sorting by origin and a catalog contains messages with no origin." width="1200">
 </picture>
 </a>
 
-<a href="https://github.com/recharts/recharts/pull/8113">
+<a href="https://github.com/urwid/urwid/pull/1552">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-recharts-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-recharts-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-recharts-mobile.svg">
-  <img src="./assets/pr-recharts.svg" alt="Recharts #8113. Merged. Made RadialBar render custom background elements and functions instead of ignoring them." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-urwid-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-urwid-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-urwid-mobile.svg">
+  <img src="./assets/pr-urwid.svg" alt="urwid #1552. Merged. Prevented ListBox crashes when rendering or receiving keys at a terminal size with no rows." width="1200">
 </picture>
 </a>
 
-<a href="https://github.com/i18next/i18next/pull/2464">
+<a href="https://github.com/trentm/python-markdown2/pull/759">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-i18next-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-i18next-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-i18next-mobile.svg">
-  <img src="./assets/pr-i18next.svg" alt="i18next #2464. Merged. Preserved nested 0, false and empty-string interpolation values with custom key separators." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-python-markdown2-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-python-markdown2-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-python-markdown2-mobile.svg">
+  <img src="./assets/pr-python-markdown2.svg" alt="python-markdown2 #759. Merged. Recognized fenced code language names containing # or dots so code and prose render correctly." width="1200">
 </picture>
 </a>
 
-<a href="https://github.com/psf/black/pull/5635">
+<a href="https://github.com/jaywcjlove/hotkeys-js/pull/552">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-black-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-black-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-black-mobile.svg">
-  <img src="./assets/pr-black.svg" alt="Black #5635. Merged. Fixed --line-ranges crashes on multi-clause statements with inline bodies and preserved unselected lines." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-hotkeys-js-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-hotkeys-js-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-hotkeys-js-mobile.svg">
+  <img src="./assets/pr-hotkeys-js.svg" alt="hotkeys-js #552. Merged. Cleared stuck pressed keys and modifiers after the print dialog closes so shortcuts keep working." width="1200">
 </picture>
 </a>
 
