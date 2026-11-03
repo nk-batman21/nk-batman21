@@ -13,10 +13,10 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/contributions-mobile-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-static.svg">
   <source media="(max-width: 600px)" srcset="./assets/contributions-mobile.svg">
-  <img src="./assets/contributions.svg" alt="95 merged public upstream PRs across 50 repositories; 68 open PRs. Snapshot: 2026-11-02." width="1200">
+  <img src="./assets/contributions.svg" alt="104 merged public upstream PRs across 52 repositories; 75 open PRs. Snapshot: 2026-11-03." width="1200">
 </picture>
 
-<sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-11-02</strong>. Repo count includes merged work.</sub>
+<sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-11-03</strong>. Repo count includes merged work.</sub>
 
 ### Where I contribute most
 
@@ -30,43 +30,43 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
 
 <a href="https://github.com/dgilland/pydash/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-5-mobile.svg"><img src="./assets/top-repo-5.svg" alt="Rank 5: dgilland/pydash, 4 merged PRs. View merged contributions." width="1200"></picture></a>
 
-<sub>Top 5 by merged public upstream PRs as of 2026-11-02. Equal counts share a rank; tied repos are listed alphabetically.</sub>
+<sub>Top 5 by merged public upstream PRs as of 2026-11-03. Equal counts share a rank; tied repos are listed alphabetically.</sub>
 
 ### A few things I've helped improve
 
-<a href="https://github.com/lingui/js-lingui/pull/2760">
+<a href="https://github.com/dop251/goja/pull/844">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-lingui-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-lingui-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-lingui-mobile.svg">
-  <img src="./assets/pr-lingui.svg" alt="Lingui #2760. Merged. Fixed extraction crashes when sorting by origin and a catalog contains messages with no origin." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-goja-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-goja-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-goja-mobile.svg">
+  <img src="./assets/pr-goja.svg" alt="goja #844. Merged. Fixed replaceAll with an empty search string hanging and running out of memory on non-ASCII strings." width="1200">
 </picture>
 </a>
 
-<a href="https://github.com/urwid/urwid/pull/1552">
+<a href="https://github.com/alecthomas/chroma/pull/1425">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-urwid-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-urwid-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-urwid-mobile.svg">
-  <img src="./assets/pr-urwid.svg" alt="urwid #1552. Merged. Prevented ListBox crashes when rendering or receiving keys at a terminal size with no rows." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-chroma-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-chroma-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-chroma-mobile.svg">
+  <img src="./assets/pr-chroma.svg" alt="Chroma #1425. Merged. Stopped lexers from panicking on long tokens such as a 20 KB JSON string or a large block comment." width="1200">
 </picture>
 </a>
 
-<a href="https://github.com/trentm/python-markdown2/pull/759">
+<a href="https://github.com/kevin1024/vcrpy/pull/1094">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-python-markdown2-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-python-markdown2-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-python-markdown2-mobile.svg">
-  <img src="./assets/pr-python-markdown2.svg" alt="python-markdown2 #759. Merged. Recognized fenced code language names containing # or dots so code and prose render correctly." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-vcrpy-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-vcrpy-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-vcrpy-mobile.svg">
+  <img src="./assets/pr-vcrpy.svg" alt="vcrpy #1094. Merged. Fixed sessions with blocking urllib3 pools hanging forever while recording or replaying cassettes." width="1200">
 </picture>
 </a>
 
-<a href="https://github.com/jaywcjlove/hotkeys-js/pull/552">
+<a href="https://github.com/apexcharts/apexcharts.js/pull/5415">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-hotkeys-js-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-hotkeys-js-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-hotkeys-js-mobile.svg">
-  <img src="./assets/pr-hotkeys-js.svg" alt="hotkeys-js #552. Merged. Cleared stuck pressed keys and modifiers after the print dialog closes so shortcuts keep working." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-apexcharts-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-apexcharts-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-apexcharts-mobile.svg">
+  <img src="./assets/pr-apexcharts.svg" alt="ApexCharts #5415. Merged. Removed the extra gap a hidden y axis left, so charts placed or synced together line up again." width="1200">
 </picture>
 </a>
 
