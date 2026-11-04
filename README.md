@@ -13,10 +13,10 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/contributions-mobile-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-static.svg">
   <source media="(max-width: 600px)" srcset="./assets/contributions-mobile.svg">
-  <img src="./assets/contributions.svg" alt="104 merged public upstream PRs across 52 repositories; 75 open PRs. Snapshot: 2026-11-03." width="1200">
+  <img src="./assets/contributions.svg" alt="115 merged public upstream PRs across 55 repositories; 64 open PRs. Snapshot: 2026-11-04." width="1200">
 </picture>
 
-<sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-11-03</strong>. Repo count includes merged work.</sub>
+<sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-11-04</strong>. Repo count includes merged work.</sub>
 
 ### Where I contribute most
 
@@ -28,45 +28,45 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
 
 <a href="https://github.com/Leaflet/Leaflet/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-4-mobile.svg"><img src="./assets/top-repo-4.svg" alt="Rank 4: Leaflet/Leaflet, 5 merged PRs. View merged contributions." width="1200"></picture></a>
 
-<a href="https://github.com/dgilland/pydash/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-5-mobile.svg"><img src="./assets/top-repo-5.svg" alt="Rank 5: dgilland/pydash, 4 merged PRs. View merged contributions." width="1200"></picture></a>
+<a href="https://github.com/recharts/recharts/pulls?q=is%3Apr%20is%3Amerged%20author%3Ank-batman21"><picture><source media="(max-width: 600px)" srcset="./assets/top-repo-5-mobile.svg"><img src="./assets/top-repo-5.svg" alt="Rank 4: recharts/recharts, 5 merged PRs. View merged contributions." width="1200"></picture></a>
 
-<sub>Top 5 by merged public upstream PRs as of 2026-11-03. Equal counts share a rank; tied repos are listed alphabetically.</sub>
+<sub>Top 5 by merged public upstream PRs as of 2026-11-04. Equal counts share a rank; tied repos are listed alphabetically.</sub>
 
 ### A few things I've helped improve
 
-<a href="https://github.com/dop251/goja/pull/844">
+<a href="https://github.com/jsx-eslint/eslint-plugin-react/pull/4062">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-goja-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-goja-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-goja-mobile.svg">
-  <img src="./assets/pr-goja.svg" alt="goja #844. Merged. Fixed replaceAll with an empty search string hanging and running out of memory on non-ASCII strings." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-eslint-plugin-react-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-eslint-plugin-react-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-eslint-plugin-react-mobile.svg">
+  <img src="./assets/pr-eslint-plugin-react.svg" alt="eslint-plugin-react #4062. Merged. Stopped jsx-fragments from treating any component destructured from React as Fragment, so autofix no longer removes StrictMode or Suspense." width="1200">
 </picture>
 </a>
 
-<a href="https://github.com/alecthomas/chroma/pull/1425">
+<a href="https://github.com/wntrblm/nox/pull/1221">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-chroma-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-chroma-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-chroma-mobile.svg">
-  <img src="./assets/pr-chroma.svg" alt="Chroma #1425. Merged. Stopped lexers from panicking on long tokens such as a 20 KB JSON string or a large block comment." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-nox-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-nox-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-nox-mobile.svg">
+  <img src="./assets/pr-nox.svg" alt="nox #1221. Merged. Fixed every nox run failing before any session started when the Noxfile was saved as UTF-8 with a BOM." width="1200">
 </picture>
 </a>
 
-<a href="https://github.com/kevin1024/vcrpy/pull/1094">
+<a href="https://github.com/psf/black/pull/5652">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-vcrpy-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-vcrpy-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-vcrpy-mobile.svg">
-  <img src="./assets/pr-vcrpy.svg" alt="vcrpy #1094. Merged. Fixed sessions with blocking urllib3 pools hanging forever while recording or replaying cassettes." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-black-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-black-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-black-mobile.svg">
+  <img src="./assets/pr-black.svg" alt="Black #5652. Merged. Skipped notebook cells the tokenizer rejects, such as shell magics with backslashes, instead of failing the whole notebook." width="1200">
 </picture>
 </a>
 
-<a href="https://github.com/apexcharts/apexcharts.js/pull/5415">
+<a href="https://github.com/locustio/locust/pull/3590">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-apexcharts-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-apexcharts-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-apexcharts-mobile.svg">
-  <img src="./assets/pr-apexcharts.svg" alt="ApexCharts #5415. Merged. Removed the extra gap a hidden y axis left, so charts placed or synced together line up again." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-locust-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-locust-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-locust-mobile.svg">
+  <img src="./assets/pr-locust.svg" alt="Locust #3590. Merged. Let StopUser, RescheduleTask and interrupt() work inside rest() blocks instead of being logged as failed requests." width="1200">
 </picture>
 </a>
 
