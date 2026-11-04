@@ -13,7 +13,7 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/contributions-mobile-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-static.svg">
   <source media="(max-width: 600px)" srcset="./assets/contributions-mobile.svg">
-  <img src="./assets/contributions.svg" alt="115 merged public upstream PRs across 55 repositories; 64 open PRs. Snapshot: 2026-11-04." width="1200">
+  <img src="./assets/contributions.svg" alt="116 merged public upstream PRs across 56 repositories; 63 open PRs. Snapshot: 2026-11-04." width="1200">
 </picture>
 
 <sub>Public PRs to repos not owned by this account. All-time snapshot: <strong>2026-11-04</strong>. Repo count includes merged work.</sub>
@@ -33,6 +33,15 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
 <sub>Top 5 by merged public upstream PRs as of 2026-11-04. Equal counts share a rank; tied repos are listed alphabetically.</sub>
 
 ### A few things I've helped improve
+
+<a href="https://github.com/bpampuch/pdfmake/pull/2956">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-pdfmake-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-pdfmake-static.svg">
+  <source media="(max-width: 600px)" srcset="./assets/pr-pdfmake-mobile.svg">
+  <img src="./assets/pr-pdfmake.svg" alt="pdfmake #2956. Merged. Fixed justified lines that start with whitespace pushing the first word right, so they line up with the other lines again." width="1200">
+</picture>
+</a>
 
 <a href="https://github.com/jsx-eslint/eslint-plugin-react/pull/4062">
 <picture>
@@ -58,15 +67,6 @@ Part of team NewKing, a small crew of indie developers who also queue League of 
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-black-static.svg">
   <source media="(max-width: 600px)" srcset="./assets/pr-black-mobile.svg">
   <img src="./assets/pr-black.svg" alt="Black #5652. Merged. Skipped notebook cells the tokenizer rejects, such as shell magics with backslashes, instead of failing the whole notebook." width="1200">
-</picture>
-</a>
-
-<a href="https://github.com/locustio/locust/pull/3590">
-<picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/pr-locust-mobile-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pr-locust-static.svg">
-  <source media="(max-width: 600px)" srcset="./assets/pr-locust-mobile.svg">
-  <img src="./assets/pr-locust.svg" alt="Locust #3590. Merged. Let StopUser, RescheduleTask and interrupt() work inside rest() blocks instead of being logged as failed requests." width="1200">
 </picture>
 </a>
 
